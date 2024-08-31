@@ -1,0 +1,7 @@
+imageio==2.4.1
+Keras-Applications==1.0.8
+matplotlib==2.2.3
+numpy==1.18.1
+scikit-image==0.14.0
+scipy==1.4.1
+tensorboard==1.15.0
